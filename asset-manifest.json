@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ProRapper/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/ProRapper/static/js/main.96792639.chunk.js",
+    "main.js.map": "/ProRapper/static/js/main.96792639.chunk.js.map",
+    "runtime-main.js": "/ProRapper/static/js/runtime-main.d24c047c.js",
+    "runtime-main.js.map": "/ProRapper/static/js/runtime-main.d24c047c.js.map",
+    "static/js/2.cab3ac58.chunk.js": "/ProRapper/static/js/2.cab3ac58.chunk.js",
+    "static/js/2.cab3ac58.chunk.js.map": "/ProRapper/static/js/2.cab3ac58.chunk.js.map",
+    "index.html": "/ProRapper/index.html",
+    "static/css/main.c5fa6883.chunk.css.map": "/ProRapper/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.cab3ac58.chunk.js.LICENSE.txt": "/ProRapper/static/js/2.cab3ac58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24c047c.js",
+    "static/js/2.cab3ac58.chunk.js",
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.96792639.chunk.js"
+  ]
+}
